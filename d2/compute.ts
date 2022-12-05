@@ -2,7 +2,7 @@
  * https://adventofcode.com/2022/day/2
  */
 
-import { fromPairs, map, replace, split, sum } from "lodash";
+import { fromPairs, map, split, sum } from "lodash";
 import { data } from "./data";
 
 const testData = `A Y
